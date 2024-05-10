@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @crutont0121 in B3
 - 👀 I’m interested in astrophysics
 - 🌱 I’m currently learning C++, Python
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 crutont0121/crutont0121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
