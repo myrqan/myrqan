@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @crutont0121 in B3
-- 👀 I’m interested in astrophysics
-- 🌱 I’m currently learning Fortran, (C++, ) Python
+- 👋 Profile:  @crutont0121 (Twitter: @roisen_add8e6)
+- 👀 interested in ... astrophysics (especially in numerical simulation ...?)
+- 🌱 Using Python (and Fortran), LaTeX (for making documents).
+- 👊 
 
 <!---
 crutont0121/crutont0121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
