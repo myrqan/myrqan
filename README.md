@@ -1,7 +1,7 @@
-- 👋 Profile:  @crutont0121 (Twitter: @roisen_add8e6)
+- 👋 Profile:  @crutont0121
 - 👀 interested in ... astrophysics (especially in numerical simulation ...?)
-- 🌱 Using Python (and Fortran), LaTeX (for making documents).
-- 👊 
+- 🌱 Using Fortran (and Python), LaTeX (for making documents).
+- 👊👊👊👊👊👊👊👊 
 
 <!---
 crutont0121/crutont0121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
