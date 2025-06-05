@@ -1,4 +1,4 @@
-- 👋 Profile:  @crutont0121
+- 👋 Profile:  @myrqan
 - 👀 interested in ... astrophysics (especially in numerical simulation ...?)
 - 🌱 Using Fortran (and Python), LaTeX (for making documents).
 - 👊👊👊👊👊👊👊👊 
